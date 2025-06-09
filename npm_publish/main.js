@@ -1,0 +1,1 @@
+console.log('Publishing package to npm...');
